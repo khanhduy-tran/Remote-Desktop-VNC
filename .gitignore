@@ -1,0 +1,10 @@
+*.class
+*.versionsBackup
+/.settings/
+/.project
+/**/.settings/
+/**/.project
+/**/.classpath
+/**/target/
+/**/dependency-reduced-pom.xml
+/target/
